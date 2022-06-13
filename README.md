@@ -9,7 +9,9 @@ https://app.patika.dev/mervekskn
 Öncelikle diziyi tek eleman kalıncaya kadar ikili parçalara ayrılır.
 
 [16, 21, 11] --- [8, 12, 22]
+
 [16] --- [21, 11] --- [8] --- [12, 22]
+
 [16] --- [21] +++ [11] --- [8] --- [12] +++ [22]
 
 Birleştirme işlemine sayısal değeri küçük olan elemanla başlanır;
